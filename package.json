@@ -1,0 +1,10 @@
+{
+  "name": "count-bot",
+  "version": "1.0.0",
+  "description": "Made by InCrafter",
+  "main": "main.js",
+  "author": "InCrafter",
+  "dependencies": {
+    "discord.js": "v16.15.0"
+  }
+}
