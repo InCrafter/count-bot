@@ -15,4 +15,4 @@ How to use:
 ![alt text](https://i.imgur.com/bUy6vql.png)
 4. Start the bot by typing 'node main.js' into the terminal.  
 5. Go to the channel you specified in step 3 and do "-count" or whatever you set the prefix to in config.json.
-![alt text](https://i.imgur.com/XM8956j.png)
+![alt text]([https://i.imgur.com/XM8956j.png](https://i.imgur.com/m9vTxyO.png))
